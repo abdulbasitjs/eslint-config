@@ -1,10 +1,10 @@
 ESLint rules collection.
 
 ## Usage
-in your `.eslint.rc` add the following:
+in your `.eslintrc.js` add the following:
 
 ```
 {
-	"extends": "eslint-config"
+	"extends": "abdul"
 }
 ```
